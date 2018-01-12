@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Rhythmic Glacier (140bpm)_data" version="1.3.0" audacityversion="2.1.3" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="172.3754488944" rate="8000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="Software" value="Edison"/>
+		<tag name="COMMENTS" value="Recorded on 12/22/2013 in Edison."/>
+	</tags>
+	<wavetrack name="Rhythmic Glacier (140bpm)" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="268716">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000512.au" len="262144" min="-0.815002" max="0.800934" rms="0.120923"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e000029a.au" len="6572" min="-0.191193" max="0.179382" rms="0.047946"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
